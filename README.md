@@ -27,10 +27,21 @@
 
 # **👤 Author:  Nayan Darokar** 
 
-Connect With Me Here: 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachout.nayan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=for-the-badge&logo=Portfolio&logoColor=yellow)](https://nayan-portfolio-nine.vercel.app/) 
+> **Connect With Me Here:**
+
+<a href="https://www.linkedin.com/in/nayan-darokar-468a85294/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
+
+  
+<a href="mailto:reachout.nayan@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+</a>
+
+
+<a href="https://nayan-portfolio-nine.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Portfolio-0077B5?style=for-the-badge&logo=Portfolio&logoColor=yellow" alt="Portfolio Badge">
+</a>
 
 
 
