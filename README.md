@@ -27,16 +27,14 @@
 
 # **👤 Author:  Nayan Darokar** 
 
-# **GitHub :**
-```bash
-https://github.com/Nayann23
-```
+Connect With Me Here: 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-darokar-468a85294/) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachout.nayan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=for-the-badge&logo=Portfolio&logoColor=yellow)](https://nayan-portfolio-nine.vercel.app/) 
 
-# **Email :**
-```bash
-reachout.nayan@gmail.com  
-```
-## **Portfolio :** 
-```bash
-https://nayan-portfolio-nine.vercel.app/
-```
+
+
+
+---
+
+
