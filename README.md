@@ -31,7 +31,7 @@ Each folder contains a dedicated README describing the project's objective, arch
 ---
 
 # **👤 Author:  Nayan Darokar** 
-
+> **Aspiring Data Scientist | Intelligent Systems & Applied ML Engineering**
 > **Connect With Me Here:**
 
 
@@ -41,5 +41,3 @@ Each folder contains a dedicated README describing the project's objective, arch
 
 
 ---
-
-
