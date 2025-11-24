@@ -132,7 +132,7 @@ https://data.mendeley.com/datasets/vfszbj9b36/1
 | `Model/`                                     | Model storage folder                                      |
 | └── `tuned_xgb_phishing_model.pkl`           | Tuned XGBoost phishing detection model                    |
 | `Output/`                                    | Output assets folder                                      |
-| └── `UI.png`                                 | UI screenshot for README                                  |
+| └── `UpdatedUI.png`                                 | UI screenshot for README                                  |
 | `templates/`                                 | HTML templates directory                                  |
 | ├── `index.html`                             | Premium responsive UI                                     |
 | └── `result.html`                            | Result view (optional / secondary template)               |
@@ -214,7 +214,7 @@ http://127.0.0.1:5000
 
 # **Output**
 
-![Project UI](Output/UpdatedUI.png)
+![Project UI](UpdatedUI.png)
 
 ---
 
