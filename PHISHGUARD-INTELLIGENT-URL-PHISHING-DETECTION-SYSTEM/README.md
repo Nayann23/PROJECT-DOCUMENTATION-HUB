@@ -87,6 +87,17 @@ https://data.mendeley.com/datasets/vfszbj9b36/1
 
 ---
 
+#### **4. Secure User Authentication System**
+
+> **PhishGuard includes a built-in authentication layer powered by SQLite to support controlled access and user identity management.**
+
+- **Secure user registration & login**
+- **Session-based access control**
+- **Guest mode with timed expiry**
+- **Foundation for future role-based access (Admin / Analyst / User)**
+
+---
+
 # **🛠 Tech Stack**
 
 #### **Backend**
@@ -96,6 +107,7 @@ https://data.mendeley.com/datasets/vfszbj9b36/1
 - **Joblib (model loading)**
 - **Pandas**
 - **Regex / urllib.parse**
+- **SQLite (User authentication & session management)**
 
 
 ---
@@ -178,6 +190,8 @@ http://127.0.0.1:5000
 - **No actual threat analysis is performed on webpages**
 - **Not intended as a primary cybersecurity product**
 - **Ideal for learning, prototyping, and demonstrating phishing detection logic**
+- **Includes a lightweight authentication system for demonstrating controlled access and secure user workflows in phishing analysis platforms.**
+
 
 ----
 
@@ -200,7 +214,7 @@ http://127.0.0.1:5000
 
 # **Output**
 
-![Project UI](UI.png)
+![Project UI](Output/UpdatedUI.png)
 
 ---
 
@@ -213,13 +227,15 @@ http://127.0.0.1:5000
 
 ## 📜 License
 
-This project is open-source and licensed under the [Apache License 2.0](../LICENSE).
+This project is open-source and licensed under the [Apache License 2.0](LICENSE).
 See the LICENSE file for full details.
 
 ---
 
 # **👤 Author:  Nayan Darokar** 
 > **Data Scientist (Aspiring) | Intelligent Systems & Applied ML Engineering**
+
+---
 
 > **Connect With Me Here:**
 
