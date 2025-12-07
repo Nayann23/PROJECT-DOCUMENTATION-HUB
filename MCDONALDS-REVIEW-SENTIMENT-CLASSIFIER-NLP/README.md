@@ -324,6 +324,7 @@ http://127.0.0.1:5000
 > **These constraints are explicitly acknowledged by design.**
 
 ---
+## **Ouput**
 
 > **System Interface Preview**  
 > ![Veritta AI – Sentiment Intelligence Console](UI.png)
@@ -351,9 +352,9 @@ http://127.0.0.1:5000
 
 ## **Source Availiability**
 
-> **The core source implementation for this project is maintained in a private repository.**
+> **The core source implementation for this project is maintained in a private repository. The code can be shared upon request for review or evaluation purposes.**
 
-> **The code can be shared upon request for review or evaluation purposes.**
+
 
 
 ---
