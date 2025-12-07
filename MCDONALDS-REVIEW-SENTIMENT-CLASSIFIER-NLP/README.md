@@ -32,6 +32,29 @@ https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews
 
 ---
 
+## **🎯 Design Intent & Project Philosophy**
+
+> **In applied data science and machine learning, many projects often converge on the same datasets, models, and evaluation metrics.**  
+> **While model performance remains important, real-world impact depends equally on how insights are communicated, explored, and trusted**.
+> **The deliberate focus on a **polished, system-level UI** in this project was intentional.**
+> **Beyond model accuracy, this project was an opportunity to go beyond standard implementations and invest additional effort into **presentation, interaction, and system completeness** — areas that are frequently underrepresented in academic or tutorial-style projects.**
+
+### **The design choices were made to:**
+
+> **Reflect how ML insights are consumed inside real organizations through dashboards and internal tools rather than notebooks.**
+
+> **Demonstrate that applied data science involves **product thinking**, not only algorithm selection.**
+
+> **Treat explainability and user trust as first-class concerns rather than optional additions.**
+
+> **Elevate the project from a typical model demonstration to a complete, user-facing intelligence system.**
+
+> **This philosophy aligns with the belief that **engineers who aim to grow beyond baseline implementations must be willing to invest extra effort where it meaningfully improves clarity, usability, and trust**, not only raw metrics.
+Production-facing ML systems succeed when interpretability, usability, and engineering discipline receive the same level of attention as accuracy.**
+
+
+---
+
 ## **🧠 Core Capabilities**
 
 ### **1. ML-Based Sentiment Classification**
