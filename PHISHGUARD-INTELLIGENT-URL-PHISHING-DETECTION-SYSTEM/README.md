@@ -4,6 +4,20 @@
 
 ---
 
+## **Live Application**
+
+**The operational deployement of ***PhishGuard Intelligence*** is available for direct usage.**
+
+**Test URL classification, real-time threat scoring, vectorized feature analysis, and the security-focused intelligence console**
+
+
+**🔗 Visit Live App:**
+
+[![Live Link](https://img.shields.io/badge/-Live-Link-FFA500?style=for-the-badge&logo=google-chrome&logoColor=black)](https://phishguard-intelligence.onrender.com)
+
+
+---
+
 # **Dataset Source:**
 ```bash
 https://data.mendeley.com/datasets/vfszbj9b36/1 

@@ -8,6 +8,17 @@
 
 ---
 
+## **Live Application**
+
+**Experience the real-time medical symptom intelligence engine, where structured health indicators, auto-completion suggestions and a modern UI diagnostic interface.**
+
+**🔗 Visit Live App:**
+
+[![Live Link](https://img.shields.io/badge/-Live-Link-FFA500?style=for-the-badge&logo=google-chrome&logoColor=black)](https://symptom-ai-daignostica.onrender.com)
+
+
+---
+
 # **Dataset Source:**  
 
 > **This project utilizes the Symptom–Disease Dataset published on Mendeley Data (Elsevier), a peer-reviewed academic repository. Full credit belongs to the original authors whose open dataset enabled this system.**

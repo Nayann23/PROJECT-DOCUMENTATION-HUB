@@ -6,6 +6,19 @@
 
 ---
 
+## **Live Application**
+
+**Access the production build of ***INFERSIS AI***, the enterprise-styled news taxanomy and content-intelligence system**
+
+**Evaluate topic classification, sentiment context probability distributions, and the full operator console.**
+
+
+**🔗 Visit Live App:**
+
+[![Live Link](https://img.shields.io/badge/-Live-Link-FFA500?style=for-the-badge&logo=google-chrome&logoColor=black)](https://infersis-ai.onrender.com)
+
+---
+
 ## **Dataset Source:**
 ```bash
 https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset 

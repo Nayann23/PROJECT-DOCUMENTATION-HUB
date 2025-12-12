@@ -4,6 +4,17 @@
 
 ---
 
+## **Live Application**
+
+**Explore the deployed ***Veritta-AI*** a sentiment intelligence system designed to analyze, normalize and visualize customer opinions using the classical NLP pipelines.**
+
+
+**🔗 Visit Live App:**
+
+[![Live Link](https://img.shields.io/badge/-Live-Link-FFA500?style=for-the-badge&logo=google-chrome&logoColor=black)](https://veritta-ai.onrender.com)
+
+---
+
 ## **Dataset Source:**
 ```bash
 https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews
