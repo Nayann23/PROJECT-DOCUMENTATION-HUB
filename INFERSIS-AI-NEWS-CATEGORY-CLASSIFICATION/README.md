@@ -12,10 +12,7 @@
 
 **Evaluate topic classification, sentiment context probability distributions, and the full operator console.**
 
-
-**🔗 Visit Live App:**
-
-🔗 **Visit Live App:** [![VISIT APP](https://img.shields.io/badge/VISIT%20APP-000000?style=for-the-badge&logo=safari&logoColor=white)](https://infersis-ai.onrender.com)
+[![🔗 Visit Live App](https://img.shields.io/badge/🔗%20Visit%20Live%20App-000000?style=for-the-badge&logo=safari&logoColor=white)](https://infersis-ai.onrender.com)
 
 ---
 
