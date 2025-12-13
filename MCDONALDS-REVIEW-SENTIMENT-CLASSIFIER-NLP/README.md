@@ -11,7 +11,7 @@
 
 **🔗 Visit Live App:**
 
-[![Visit App](https://img.shields.io/badge/VISIT%20APP-000000?style=for-the-badge&logo=safari&logoColor=white)](https://veritta-ai.onrender.com)
+🔗 **Visit Live App:** [![VISIT APP](https://img.shields.io/badge/VISIT%20APP-000000?style=for-the-badge&logo=safari&logoColor=white)](https://veritta-ai.onrender.com)
 
 ---
 

@@ -13,7 +13,9 @@
 **Experience real-time spam detection, toxicity shielding, Bernoulli NB inference, and the full intelligence dashboard directly in your browser.**
 
 
-**🔗 Visit Live App:** [![Visit App](https://img.shields.io/badge/VISIT%20APP-000000?style=for-the-badge&logo=safari&logoColor=white)](https://inboxis-ai.onrender.com)
+**🔗 Visit Live App:**
+
+🔗 **Visit Live App:** [![VISIT APP](https://img.shields.io/badge/VISIT%20APP-000000?style=for-the-badge&logo=safari&logoColor=white)](https://inboxis-ai.onrender.com)
 
 ---
 
