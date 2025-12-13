@@ -12,7 +12,7 @@
 
 **Experience the real-time medical symptom intelligence engine, where structured health indicators, auto-completion suggestions and a modern UI diagnostic interface.**
 
-[![🔗 Visit Live App](https://img.shields.io/badge/🔗%20Visit%20Live%20App-000000?style=for-the-badge&logo=safari&logoColor=white)](https://your-app.onrender.com)(https://symptom-ai-daignostica.onrender.com)
+[![🔗 Visit Live App](https://img.shields.io/badge/🔗%20Visit%20Live%20App-000000?style=for-the-badge&logo=safari&logoColor=white)](https://symptom-ai-daignostica.onrender.com)
 
 
 ---
