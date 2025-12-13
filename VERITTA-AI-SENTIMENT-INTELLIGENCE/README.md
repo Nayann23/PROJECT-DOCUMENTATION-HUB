@@ -8,10 +8,7 @@
 
 **Explore the deployed ***Veritta-AI*** a sentiment intelligence system designed to analyze, normalize and visualize customer opinions using the classical NLP pipelines.**
 
-
-**🔗 Visit Live App:**
-
-🔗 **Visit Live App:** [![VISIT APP](https://img.shields.io/badge/VISIT%20APP-000000?style=for-the-badge&logo=safari&logoColor=white)](https://veritta-ai.onrender.com)
+[![🔗 Visit Live App](https://img.shields.io/badge/🔗%20Visit%20Live%20App-000000?style=for-the-badge&logo=safari&logoColor=white)](https://veritta-ai.onrender.com)
 
 ---
 
