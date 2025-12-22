@@ -53,7 +53,9 @@ To demonstrate a robust, system-oriented NLP workflow that prioritizes **linguis
 
 ---
 
-# **👤 Author: Nayan Darokar** > **Data Scientist (Aspiring) | Intelligent Systems & Applied ML Engineering**
+# **👤 Author: Nayan Darokar** 
+
+> **Data Scientist (Aspiring) | Intelligent Systems & Applied ML Engineering**
 
 ---
 
