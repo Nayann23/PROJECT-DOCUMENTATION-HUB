@@ -6,6 +6,13 @@
 
 ---
 
+# 🚨 [Project Name] — System Design Artifact
+
+> [!TIP]
+> **In a hurry?** For a high-level overview of the project objectives, tech stack, and key engineering highlights, please refer to the **[Executive Summary (README.md)](./README.md)**.
+
+---
+
 ## **Live Application**
 
 **A fully deployed version of ***INBOXIS AI (v2.0)*** is available for interactive exploration.**
@@ -373,7 +380,7 @@ https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 # 🖥 System Interface Preview
 
 **INBOXIS AI Interface**
-![Output](UI.png)  
+![Output](./Assets/UI.png)  
 
 ---
 

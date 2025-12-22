@@ -8,6 +8,22 @@
 
 ---
 
+# 🚀 RiskFlow v2.0 — Enterprise-Grade Customer Churn Intelligence
+
+> [!TIP]
+> **In a hurry?** For a high-level overview of the optimization logic, churn metrics, and engineering highlights, please refer to the **[Executive Summary (README.md)](./README.md)**.
+
+---
+
+## **Live Application**
+**The operational deployment of RiskFlow v2.0 is available for interactive risk evaluation.**
+
+**Test probabilistic churn forecasting, geographic segmentation, and the "TensorFlow-less" optimized inference engine.**
+
+[![🔗 Visit Live App](https://img.shields.io/badge/🔗%20Visit%20Live%20App-000000?style=for-the-badge&logo=safari&logoColor=white)](https://riskflow.onrender.com/)
+
+---
+
 ## **📌 System Classification & Intent Disclosure**
 
 > **RiskFlow v2.0 is an educational and portfolio-focused simulation created to demonstrate applied machine learning, system architecture thinking, and enterprise-style analytical UI design.**
@@ -342,7 +358,7 @@
 
 **Primary Analysis Interface**
 
-![RiskFlow – Churn Risk Analysis Console](UI.png)
+![RiskFlow – Churn Risk Analysis Console](./Assets/UI.png)
 
 > **The interface demonstrates structured data input, probability-based risk visualization, session analytics, and historical log inspection.**
 

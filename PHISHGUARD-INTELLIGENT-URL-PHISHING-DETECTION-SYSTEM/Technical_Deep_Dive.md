@@ -8,6 +8,11 @@
 
 ---
 
+> [!TIP]
+> **In a hurry?** For a high-level overview of the hybrid security architecture, tech stack, and key detection layers, please refer to the **[Executive Summary (README.md)](./README.md)**.
+
+---
+
 ## **Live Application**
 
 **The operational deployement of ***PhishGuard Intelligence*** is available for direct usage.**
@@ -255,7 +260,7 @@ http://127.0.0.1:5000
 
 # **Output**
 
-![Project UI](UpdatedUI.png)
+![Project UI](./Assets/UpdatedUI.png)
 
 ---
 

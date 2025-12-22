@@ -5,6 +5,12 @@
 > **Rather than presenting recommendations as a static list, VectorCine AI is intentionally architected as an internal intelligence console — reflecting how recommendation engines are queried, monitored, and trusted inside modern ML-driven products.**
 
 ---
+# 🎬 VectorCine AI — Cinematic Intelligence & Vector Similarity Engine
+
+> [!TIP]
+> **In a hurry?** For a high-level overview of the vector architecture, engineering highlights, and deployment strategy, please refer to the **[Executive Summary (README.md)](./README.md)**.
+
+---
 
 ## **Deployment Status**
 
@@ -306,7 +312,7 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 **Primary Intelligence Interface**
 
-![VectorCine – Cinema Intelligence Console](UI.png)
+![VectorCine – Cinema Intelligence Console](./Assets/UI.png)
 
 > **The interface demonstrates vector-driven recommendations, staged inference feedback, and system analytics visibility**
 

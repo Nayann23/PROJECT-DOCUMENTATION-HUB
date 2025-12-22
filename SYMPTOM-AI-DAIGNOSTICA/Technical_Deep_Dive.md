@@ -8,6 +8,11 @@
 
 ---
 
+> [!TIP]
+> **In a hurry?** For a high-level overview of the diagnostic engine, tech stack, and intelligent UX features, please refer to the **[Executive Summary (README.md)](./README.md)**.
+
+---
+
 ## **Live Application**
 
 **Experience the real-time medical symptom intelligence engine, where structured health indicators, auto-completion suggestions and a modern UI diagnostic interface.**
@@ -247,8 +252,7 @@ python app.py
 ---
 
 # **🖥 Output**
-![Output](UI.png)  
-
+![Output](./Assets/UI.png)  
 
 ---
 
@@ -274,6 +278,7 @@ python app.py
 > **See the LICENSE file for full details.**
 
 ---
+
 # **👤 Author:  Nayan Darokar** 
 > **Data Scientist (Aspiring) | Intelligent Systems & Applied ML Engineering**
 

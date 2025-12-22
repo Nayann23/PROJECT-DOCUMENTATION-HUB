@@ -6,6 +6,13 @@
 
 ---
 
+# 🚀 INFERSIS AI — News Intelligence & Category Classification Console
+
+> [!TIP]
+> **In a hurry?** For a high-level overview of the news taxonomy, tech stack, and key engineering highlights, please refer to the **[Executive Summary (README.md)](./README.md)**.
+
+---
+
 ## **Live Application**
 
 **Access the production build of ***INFERSIS AI***, the enterprise-styled news taxanomy and content-intelligence system**
@@ -296,8 +303,7 @@ https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
 
 ## **🖥 System Interface Preview**
 
-[![INFERSIS AI Interface](./UI.png)](./UI.png)
-
+[![INFERSIS AI Interface](./Assets/UI.png)]  
 ---
 
 ## **🏁 Conclusion**
