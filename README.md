@@ -80,7 +80,11 @@ See the LICENSE file for full details.
 
 ---
 
-# **👤 Author: Nayan Darokar** > **Data Scientist (Aspiring) | Intelligent Systems & Applied ML Engineering**
+# **👤 Author: Nayan Darokar**
+
+> **Data Scientist (Aspiring) | Intelligent Systems & Applied ML Engineering**
+
+---
 
 > **Connect With Me Here:**
 
