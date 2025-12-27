@@ -408,6 +408,14 @@
 
 ---
 
+## **🖥 System Interface Preview**
+
+Neurovia Diagnostic Intelligence Console
+
+![System UI](./Assets/UI.png)
+
+---
+
 ## **📜 License**
 
 This project is open-source and licensed under the [Apache License 2.0](../LICENSE).
